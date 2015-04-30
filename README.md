@@ -2,9 +2,8 @@
 
 This is the most basic version. It has no login no join no admin no install and no MySQL db needs
 
-This is the most basic version. It has no login no join no admin no install and no MySQL db needs.
-
 Install/setup
+
 
 1) Rename all "http://xRoot_Domainx.com" to use your domain:
 
