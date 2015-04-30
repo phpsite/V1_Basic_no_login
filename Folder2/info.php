@@ -1,0 +1,1 @@
+Place holder for Folder2 content
