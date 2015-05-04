@@ -106,17 +106,17 @@ $arrayx = explode("/", $pathx);
 	</td>
 
 
-	<td <?php  if ($arrayx[1] == 'projects') { ?>
+	<td <?php  if ($arrayx[1] == 'Folder3') { ?>
 	bgcolor="000000" <?php }; ?>width="12%" align="center" class="ch">
-	<a <?php  if ($arrayx[1] == 'projects') { ?> style="color:white;"<?php }; ?>  href="http://xRoot_Domainx.com/Folder3/">
+	<a <?php  if ($arrayx[1] == 'Folder3') { ?> style="color:white;"<?php }; ?>  href="http://xRoot_Domainx.com/Folder3/">
 	Folder3
 	</a>
 	</td>
 
 
-	<td <?php  if ($arrayx[1] == 'admin') { ?>
+	<td <?php  if ($arrayx[1] == 'Folder4') { ?>
 	bgcolor="000000" <?php }; ?>width="12%" align="center" class="ch">
-	<a <?php  if ($arrayx[1] == 'temp') { ?> style="color:white;"<?php }; ?>  href="http://xRoot_Domainx.com/Folder4/">
+	<a <?php  if ($arrayx[1] == 'Folder4') { ?> style="color:white;"<?php }; ?>  href="http://xRoot_Domainx.com/Folder4/">
 	Folder4
 	</a>
 	</td>
